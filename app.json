@@ -1,0 +1,13 @@
+{
+  "name": "amiwiis-app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
