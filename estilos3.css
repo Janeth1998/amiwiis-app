@@ -1,0 +1,36 @@
+body {
+	background: fuchsia;
+}
+.contenedor{
+	border: 5px solid yellow  ;
+	width: 960px;
+	margin:0 auto;
+}
+.menu-lista {
+list-style-type: nome;
+margin: 0;
+padding: 0;
+}
+.menu-item{
+display: inline-block;
+
+}
+.menu-link{
+
+}
+nav{
+	text-align: center;
+}
+.menu-link {
+	font-size: 18px;
+	background: purple;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.menu-link:hover{
+	text-decoration:underline;
+	box-shadow: 9px 9px 19px blue;
+	transition: 2s;
+}
